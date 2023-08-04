@@ -4,6 +4,8 @@ void main() {
   const a = 7;
   const b = 3;
 
+  print("a = $a, b = $b");
+
   // Addition from a+b
   print("Addition: $a + $b = ${a+b}");
 
